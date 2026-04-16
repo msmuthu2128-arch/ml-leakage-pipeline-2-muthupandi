@@ -1,4 +1,4 @@
-# House Price Prediction باستخدام Multiple Linear Regression
+# House Price Prediction Multiple Linear Regression
 
 ## Project Overview
 This project demonstrates how to build and evaluate a **Multiple Linear Regression model** to predict house prices based on key property features.
